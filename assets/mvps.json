@@ -1,0 +1,686 @@
+{
+  "mistress": {
+    "respawn": {
+      "mjolnir_04": {
+        "map": "mjolnir_04",
+        "map_name": "Mt. Mjolnir",
+        "time": 120,
+        "time_var": 10
+      }
+    },
+    "name": "mistress"
+  },
+  "assassin cross eremes": {
+    "respawn": {
+      "lhz_dun03": {
+        "map": "lhz_dun03",
+        "map_name": "Bio Laboratory F3",
+        "time": 100,
+        "time_var": 30
+      }
+    },
+    "name": "assassin cross eremes"
+  },
+  "amon ra": {
+    "respawn": {
+      "moc_pryd06": {
+        "map": "moc_pryd06",
+        "map_name": "Inside Pyramid B2",
+        "time": 60,
+        "time_var": 10
+      }
+    },
+    "name": "amon ra"
+  },
+  "high wizard kathryne": {
+    "respawn": {
+      "lhz_dun03": {
+        "map": "lhz_dun03",
+        "map_name": "Bio Laboratory F3",
+        "time": 100,
+        "time_var": 30
+      }
+    },
+    "name": "high wizard kathryne"
+  },
+  "sniper cecil": {
+    "respawn": {
+      "lhz_dun03": {
+        "map": "lhz_dun03",
+        "map_name": "Bio Laboratory F3",
+        "time": 100,
+        "time_var": 30
+      }
+    },
+    "name": "sniper cecil"
+  },
+  "atroce": {
+    "respawn": {
+      "gld_dun03_2": {
+        "map": "gld_dun03_2",
+        "map_name": "Valkyrie Guild Dungeon F2",
+        "time": 480,
+        "time_var": 10
+      },
+      "ra_fild02": {
+        "map": "ra_fild02",
+        "map_name": "Od Canyon",
+        "time": 240,
+        "time_var": 10
+      },
+      "ra_fild03": {
+        "map": "ra_fild03",
+        "map_name": "The Plain of Ida",
+        "time": 180,
+        "time_var": 10
+      },
+      "ra_fild04": {
+        "map": "ra_fild04",
+        "map_name": "Audhumbla Grassland",
+        "time": 300,
+        "time_var": 10
+      },
+      "ve_fild01": {
+        "map": "ve_fild01",
+        "map_name": "Veins Field",
+        "time": 180,
+        "time_var": 10
+      },
+      "ve_fild02": {
+        "map": "ve_fild02",
+        "map_name": "Veins Field",
+        "time": 360,
+        "time_var": 10
+      }
+    },
+    "name": "atroce"
+  },
+  "baphomet": {
+    "respawn": {
+      "prt_maze03": {
+        "map": "prt_maze03",
+        "map_name": "Labyrinth Forest F3",
+        "time": 120,
+        "time_var": 10
+      }
+    },
+    "name": "baphomet"
+  },
+  "beelzebub": {
+    "respawn": {
+      "abbey03": {
+        "map": "abbey03",
+        "map_name": "Cursed Monastery F3",
+        "time": 720,
+        "time_var": 10
+      }
+    },
+    "name": "beelzebub"
+  },
+  "golden thief bug": {
+    "respawn": {
+      "prt_sewb4": {
+        "map": "prt_sewb4",
+        "map_name": "Prontera Culvert F4",
+        "time": 60,
+        "time_var": 10
+      }
+    },
+    "name": "golden thief bug"
+  },
+  "fallen bishop hibram": {
+    "respawn": {
+      "abbey02": {
+        "map": "abbey02",
+        "map_name": "Cursed Manastery F2",
+        "time": 120,
+        "time_var": 10
+      }
+    },
+    "name": "fallen bishop hibram"
+  },
+  "boitata": {
+    "respawn": {
+      "bra_dun02": {
+        "map": "bra_dun02",
+        "map_name": "Brasilis Dungeon F2",
+        "time": 120,
+        "time_var": 10
+      }
+    },
+    "name": "boitata"
+  },
+  "stormy knight": {
+    "respawn": {
+      "xmas_dun02": {
+        "map": "xmas_dun02",
+        "map_name": "Toy Monitoring Room",
+        "time": 60,
+        "time_var": 10
+      }
+    },
+    "name": "stormy knight"
+  },
+  "detardeurus": {
+    "respawn": {
+      "abyss_03": {
+        "map": "abyss_03",
+        "map_name": "Abyss Lakes Underground Cave F3",
+        "time": 180,
+        "time_var": 10
+      }
+    },
+    "name": "detardeurus"
+  },
+  "doppelganger": {
+    "respawn": {
+      "gef_dun02": {
+        "map": "gef_dun02",
+        "map_name": "Geffen Dungeon F3",
+        "time": 120,
+        "time_var": 10
+      },
+      "gld_dun02": {
+        "map": "gld_dun02",
+        "map_name": "Lunia Guild Dungeon",
+        "time": 480,
+        "time_var": 10
+      }
+    },
+    "name": "doppelganger"
+  },
+  "dracula": {
+    "respawn": {
+      "gef_dun01": {
+        "map": "gef_dun01",
+        "map_name": "Geffen Dungeon F2",
+        "time": 60,
+        "time_var": 10
+      }
+    },
+    "name": "dracula"
+  },
+  "drake": {
+    "respawn": {
+      "treasure02": {
+        "map": "treasure02",
+        "map_name": "Sunken Ship F2",
+        "time": 120,
+        "time_var": 10
+      }
+    },
+    "name": "drake"
+  },
+  "eddga": {
+    "respawn": {
+      "gld_dun01": {
+        "map": "gld_dun01",
+        "map_name": "Greenwood Lake Guild Dungeon",
+        "time": 480,
+        "time_var": 10
+      },
+      "pay_fild11": {
+        "map": "pay_fild11",
+        "map_name": "Payon Forest",
+        "time": 120,
+        "time_var": 10
+      }
+    },
+    "name": "eddga"
+  },
+  "egnigem cenia": {
+    "respawn": {
+      "lhz_dun02": {
+        "map": "lhz_dun02",
+        "map_name": "Bio Laboratory F2",
+        "time": 120,
+        "time_var": 10
+      },
+      "bossnia_01": {
+        "map": "bossnia_01",
+        "map_name": "Bosnia",
+        "time": 60,
+        "time_var": 0
+      }
+    },
+    "name": "egnigem cenia"
+  },
+  "pharaoh": {
+    "respawn": {
+      "in_sphinx5": {
+        "map": "in_sphinx5",
+        "map_name": "Sphinx F5",
+        "time": 60,
+        "time_var": 10
+      }
+    },
+    "name": "pharaoh"
+  },
+  "moonlight flower": {
+    "respawn": {
+      "pay_dun04": {
+        "map": "pay_dun04",
+        "map_name": "Payon Cave F5",
+        "time": 60,
+        "time_var": 10
+      }
+    },
+    "name": "moonlight flower"
+  },
+  "phreeoni": {
+    "respawn": {
+      "moc_fild17": {
+        "map": "moc_fild17",
+        "map_name": "Sograt Desert",
+        "time": 120,
+        "time_var": 10
+      }
+    },
+    "name": "phreeoni"
+  },
+  "turtle general": {
+    "respawn": {
+      "tur_dun04": {
+        "map": "tur_dun04",
+        "map_name": "Turtle Palace",
+        "time": 60,
+        "time_var": 10
+      }
+    },
+    "name": "turtle general"
+  },
+  "gopinich": {
+    "respawn": {
+      "mosk_dun03": {
+        "map": "mosk_dun03",
+        "map_name": "Dremuci Forest",
+        "time": 120,
+        "time_var": 10
+      }
+    },
+    "name": "gopinich"
+  },
+  "garm": {
+    "respawn": {
+      "xmas_fild01": {
+        "map": "xmas_fild01",
+        "map_name": "Lutie Field",
+        "time": 120,
+        "time_var": 10
+      }
+    },
+    "name": "garm"
+  },
+  "ifrit": {
+    "respawn": {
+      "thor_v03": {
+        "map": "thor_v03",
+        "map_name": "Thors Volcano Dungeon F3",
+        "time": 660,
+        "time_var": 10
+      }
+    },
+    "name": "ifrit"
+  },
+  "kiel d-01": {
+    "respawn": {
+      "kh_dun02": {
+        "map": "kh_dun02",
+        "map_name": "Robot Factory Level 2",
+        "time": 120,
+        "time_var": 60
+      }
+    },
+    "name": "kiel d-01"
+  },
+  "ktullanux": {
+    "respawn": {
+      "ice_dun03": {
+        "map": "ice_dun03",
+        "map_name": "Ice Cave F3"
+      }
+    },
+    "name": "ktullanux"
+  },
+  "white lady": {
+    "respawn": {
+      "lou_dun03": {
+        "map": "lou_dun03",
+        "map_name": "Suei Long Gon",
+        "time": 117,
+        "time_var": 10
+      }
+    },
+    "name": "white lady"
+  },
+  "lady tanee": {
+    "respawn": {
+      "ayo_dun02": {
+        "map": "ayo_dun02",
+        "map_name": "Inside Ancient Shrine",
+        "time": 420,
+        "time_var": 10
+      }
+    },
+    "name": "lady tanee"
+  },
+  "tendrilion": {
+    "respawn": {
+      "spl_fild03": {
+        "map": "spl_fild03",
+        "map_name": "Splendide Field",
+        "time": 60,
+        "time_var": 0
+      }
+    },
+    "name": "tendrilion"
+  },
+  "lord knight seyren": {
+    "respawn": {
+      "lhz_dun03": {
+        "map": "lhz_dun03",
+        "map_name": "Bio Laboratory F3",
+        "time": 100,
+        "time_var": 30
+      }
+    },
+    "name": "lord knight seyren"
+  },
+  "hardrock mammoth": {
+    "respawn": {
+      "man_fild03": {
+        "map": "man_fild03",
+        "map_name": "Manuk Field",
+        "time": 240,
+        "time_var": 0
+      }
+    },
+    "name": "hardrock mammoth"
+  },
+  "maya": {
+    "respawn": {
+      "anthell02": {
+        "map": "anthell02",
+        "map_name": "Ant Hell F2",
+        "time": 120,
+        "time_var": 10
+      },
+      "gld_dun03": {
+        "map": "gld_dun03",
+        "map_name": "Valkyrie Guild Dungeon",
+        "time": 480,
+        "time_var": 10
+      }
+    },
+    "name": "maya"
+  },
+  "memory of thanatos": {
+    "respawn": {
+      "thana_boss": {
+        "map": "thana_boss",
+        "map_name": "The top of The Thanatos Tower"
+      }
+    },
+    "name": "memory of thanatos"
+  },
+  "whitesmith howard": {
+    "respawn": {
+      "lhz_dun03": {
+        "map": "lhz_dun03",
+        "map_name": "Bio Laboratory F3",
+        "time": 100,
+        "time_var": 30
+      }
+    },
+    "name": "whitesmith howard"
+  },
+  "wounded morroc": {
+    "respawn": {
+      "moc_fild22": {
+        "map": "moc_fild22",
+        "map_name": "Morrod Field (Dimensional Gorge)",
+        "time": 720,
+        "time_var": 60
+      }
+    },
+    "name": "wounded morroc"
+  },
+  "orc hero": {
+    "respawn": {
+      "gef_fild02": {
+        "map": "gef_fild02",
+        "map_name": "Geffen Field",
+        "time": 1440,
+        "time_var": 10
+      },
+      "gef_fild14": {
+        "map": "gef_fild14",
+        "map_name": "West Orc Village",
+        "time": 60,
+        "time_var": 10
+      }
+    },
+    "name": "orc hero"
+  },
+  "osiris": {
+    "respawn": {
+      "moc_pryd04": {
+        "map": "moc_pryd04",
+        "map_name": "Inside Pyramid F4",
+        "time": 60,
+        "time_var": 10
+      }
+    },
+    "name": "osiris"
+  },
+  "gloom under night": {
+    "respawn": {
+      "ra_san05": {
+        "map": "ra_san05",
+        "map_name": "Holy Ground F5",
+        "time": 300,
+        "time_var": 10
+      }
+    },
+    "name": "gloom under night"
+  },
+  "rsx-0806": {
+    "respawn": {
+      "ein_dun02": {
+        "map": "ein_dun02",
+        "map_name": "Mine Dungeon F2",
+        "time": 125,
+        "time_var": 10
+      }
+    },
+    "name": "rsx-0806"
+  },
+  "samurai specter": {
+    "respawn": {
+      "ama_dun03": {
+        "map": "ama_dun03",
+        "map_name": "Amatsu Underground Shrine",
+        "time": 91,
+        "time_var": 10
+      }
+    },
+    "name": "samurai specter"
+  },
+  "dark lord": {
+    "respawn": {
+      "gl_chyard": {
+        "map": "gl_chyard",
+        "map_name": "Glast Heim Churchyard",
+        "time": 60,
+        "time_var": 10
+      },
+      "gld_dun04": {
+        "map": "gld_dun04",
+        "map_name": "Britoniah Guild Dungeon",
+        "time": 480,
+        "time_var": 10
+      }
+    },
+    "name": "dark lord"
+  },
+  "lord of the dead": {
+    "respawn": {
+      "niflheim": {
+        "map": "niflheim",
+        "map_name": "Nifflheim, Realm of the Dead",
+        "time": 133,
+        "time_var": 0
+      }
+    },
+    "name": "lord of the dead"
+  },
+  "orc lord": {
+    "respawn": {
+      "gef_fild10": {
+        "map": "gef_fild10",
+        "map_name": "Geffen Field",
+        "time": 120,
+        "time_var": 10
+      }
+    },
+    "name": "orc lord"
+  },
+  "evil snake lord": {
+    "respawn": {
+      "gon_dun03": {
+        "map": "gon_dun03",
+        "map_name": "Arcadia",
+        "time": 94,
+        "time_var": 10
+      }
+    },
+    "name": "evil snake lord"
+  },
+  "nidhoggr's shadow": {
+    "respawn": {
+      "2@nyd": {
+        "map": "2@nyd",
+        "map_name": "Nidhoggur's Nest Lv 2"
+      }
+    },
+    "name": "nidhoggr's shadow"
+  },
+  "high priest margaretha": {
+    "respawn": {
+      "lhz_dun03": {
+        "map": "lhz_dun03",
+        "map_name": "Bio Laboratory F3",
+        "time": 100,
+        "time_var": 10
+      }
+    },
+    "name": "high priest margaretha"
+  },
+  "tao gunka": {
+    "respawn": {
+      "beach_dun": {
+        "map": "beach_dun",
+        "map_name": "Karu, the West Cave",
+        "time": 300,
+        "time_var": 10
+      }
+    },
+    "name": "tao gunka"
+  },
+  "valkyrie randgris": {
+    "respawn": {
+      "odin_tem03": {
+        "map": "odin_tem03",
+        "map_name": "Odin Temple F3",
+        "time": 480,
+        "time_var": 10
+      }
+    },
+    "name": "valkyrie randgris"
+  },
+  "vesper": {
+    "respawn": {
+      "jupe_core": {
+        "map": "jupe_core",
+        "map_name": "Juperos Core",
+        "time": 120,
+        "time_var": 10
+      }
+    },
+    "name": "vesper"
+  },
+  "gold queen scaraba": {
+    "respawn": {
+      "dic_dun03": {
+        "map": "dic_dun03",
+        "map_name": "Skaraba Hall",
+        "time": 120,
+        "time_var": 0
+      }
+    },
+    "name": "gold queen scaraba"
+  },
+  "deviling": {
+    "respawn": {
+      "pay_fild04": {
+        "map": "pay_fild04",
+        "map_name": "Sograt Desert",
+        "time": 120,
+        "time_var": 60
+      },
+      "yuno_fild03": {
+        "map": "yuno_fild03",
+        "map_name": "El Mes Plateau",
+        "time": 60,
+        "time_var": 30
+      }
+    },
+    "name": "deviling"
+  },
+  "angeling": {
+    "respawn": {
+      "pay_fild04": {
+        "map": "pay_fild04",
+        "map_name": "Sograt Desert",
+        "time": 60,
+        "time_var": 30
+      },
+      "yuno_fild03": {
+        "map": "yuno_fild03",
+        "map_name": "El Mes Plateau",
+        "time": 60,
+        "time_var": 30
+      },
+      "xmas_dun01": {
+        "map": "xmas_dun01",
+        "map_name": "Toy Monitoring Warehouse",
+        "time": 60,
+        "time_var": 30
+      }
+    },
+    "name": "angeling"
+  },
+  "ghostring": {
+    "respawn": {
+      "pay_fild04": {
+        "map": "pay_fild04",
+        "map_name": "Sograt Desert",
+        "time": 60,
+        "time_var": 30
+      },
+      "prt_maze03": {
+        "map": "prt_maze03",
+        "map_name": "Labyrinth Forest F3",
+        "time": 113,
+        "time_var": 57
+      },
+      "treasure02": {
+        "map": "treasure02",
+        "map_name": "Sunken Ship F2",
+        "time": 33,
+        "time_var": 20
+      }
+    },
+    "name": "ghostring"
+  }
+}
